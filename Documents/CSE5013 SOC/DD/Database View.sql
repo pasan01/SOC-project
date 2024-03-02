@@ -1,5 +1,0 @@
-CREATE PROC ProductViewAll
-AS
-	BEGIN
-		SELECT * FROM Product
-	END
